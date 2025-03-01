@@ -1,0 +1,6 @@
+- Improve combo execution [[Combo Drills]]
+- check drive rush
+- anti-air neutral jump shimmies in the corner
+- anti-air devils reverse
+- understand Rashid's mix [[Rashid]]
+- Clean up my corner pressure
